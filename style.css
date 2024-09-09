@@ -1,0 +1,314 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.my-head {
+  background-color: #fff8f3;
+  background-image: url('images/header_bg.png'),url('images/developer.png');
+   background-repeat: no-repeat;
+  background-position: bottom right, left;
+  margin-bottom: 70px;
+}
+.primary-color {
+  color: #fd6e0a;
+}
+.baba {
+  display: flex;
+  align-self: center;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+.baba2 {
+  align-items: center;
+  list-style: none;
+  display: flex;
+}
+
+.mary-nav-bar{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 5opx;
+}
+
+
+.title-of-mary {
+  font-weight: 800;
+  font-size: 45px;
+}
+ul li {
+  margin-right: 50px;
+}
+li a {
+  text-decoration: none;
+  color: #474747;
+}
+.btn-primary {
+  border-radius: 5px;
+  background-color: #fd6e0a;
+  color: white;
+  border: none;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 18px 35px;
+}
+/* Hardy vai er kaj kom */
+.master{
+  display: flex;
+  align-items: center;
+  /* padding: 4opx 3opx 0px 200px;*/
+} 
+.boro{
+  margin-left: 250px;
+}
+.hi-i-am{
+  font-size: 35px;
+}
+.mary{
+  font-size: 70px;
+  font-weight: 700px;
+  margin-bottom: 25px;
+}
+.paragraph{
+  margin-bottom: 25px;
+  color: #8a8481;
+  margin-right: 150px;
+}
+.choto{
+  margin-right: 40px;
+}
+.btn-download-cv{
+  background-color: #fd6e0a;
+  color: white;
+  font-weight: 700px;
+  border-radius: 5px;
+  padding: 18px 35px;
+  border: none;
+  font-size: large;
+  margin-right: 20px;
+}
+.fa-solid fa-download{
+  padding-left: 500PX;
+}
+.DC{
+  margin-left: 10px;
+}
+.btn-contact {
+  border-color: #fd6e0a;
+  color: #fd6e0a;
+  font-weight: 700px;
+  border-radius: 5px;
+  padding: 18px 35px;
+  border: none;
+  font-size: large;
+  margin-right: 20px;
+  background-color: transparent;
+}
+.mary {
+  font-weight: 700px;
+  font-size: 70px;
+  margin-bottom: 25px;
+}
+.paragraph {
+  margin-bottom: 25px;
+  cursor: #8a8481;
+  margin-right: 150px;
+}
+.background-about-me {
+  background-color: #FFF8F3;
+  border-radius: 7px;
+  size: 60px 40px;
+  padding-top: 5opx;
+  padding-bottom: 90px;
+  size: 50px 50px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 130px;
+}
+.about-me {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.paragraph-of-main {
+  padding-left: 160px;
+  padding-right: 160px;
+  padding-bottom: 10px;
+  /* line spacing kivabe korbo?*/
+  text-align: center;
+  color: #8a8481;
+}
+.p-of-main {
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  padding-left: 190px;
+  color: #8a8481;
+}
+.Email {
+  padding-left: 123px;
+  padding-right: 118px;
+}
+.Form {
+  padding-left: 144px;
+}
+.h4-of-main {
+  display: flex;
+  padding-left: 168px;
+}
+
+.info {
+  padding-left: 70px;
+  padding-right: 49px;
+}
+.los-angeles {
+  padding-left: 77px;
+}
+
+.what-i-do {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+
+.p-of-what-i-do {
+  text-align: center;
+  padding-left: 290px;
+  padding-right: 290px;
+  padding-bottom: 50px;
+  color: #8a8481;
+}
+.section-4 {
+  display: flex;
+  padding-left: 202px;
+  padding-right: 202px;
+}
+
+.section-4-bg {
+  background-color: white;
+  text-align: center left;
+  border-radius: 5px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 25px;
+  padding-bottom: 20px;
+  margin-right: 25px;
+  box-shadow: #3f04e2;
+  background-clip: border-box;
+  filter: drop-shadow(0 0 0.75rem rgb(154, 151, 152));
+}
+.section-4-h4 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.text-height {
+  line-height: 250px;
+}
+
+.a-summary-of-my {
+  text-align: center;
+  padding: 120px;
+}
+.cv-devide-section{
+  display: flex;
+  padding-left: 220px;
+  padding-right: 220px;
+}
+
+.my-education-section {
+  padding-right: 30px;
+}
+.master-in-computer {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.list-skill-technologies {
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+.list-skill-right-padding {}
+
+.btn-download-cv2 {
+  background-color: #FD6E0A;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+  padding: 18px 35px;
+  border: none;
+  font-size: large;
+  margin-left: 640px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+.footer {
+  font-family: "open Sans", sans-serif;
+}
+.footer-bg {
+  background-color: #FFF8F3;
+  display: flex;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+.lets-connect-section {
+
+}
+
+.lets-connect-font {
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.submit-button {
+  background-color: #FD6E0A;
+  color: white;
+  font-weight: 600px;
+  border-radius: 5px;
+  padding: 18px 35px;
+  border: none;
+  font-size: large;
+  /* margin-left:640px;
+  margin-top: 40px;
+  margin-bottom: 50px;*/
+
+}
+.lets-connect-paragraph {
+  padding-top: 35px;
+  padding-bottom: 35px;
+  margin-right: 40px;
+}
+.logo-of-footer {
+  padding-right: 1opx;
+}
+.form {
+  padding-left: 20px;
+  padding-right: 210px;
+  padding-top: 13px;
+  padding-bottom: 17px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.form2 {
+padding-left: 20px;
+padding-right: 210px;
+padding-top: 13px;
+padding-bottom: 97px;
+margin-top: 15px;
+margin-bottom: 20px;
+border-radius: 5px;
+border: none;
+}
+
+
+.text-color {
+  color: #757575;
+}
+
+.text-color2 {
+  color: #02f802;
+}
+
+
+
